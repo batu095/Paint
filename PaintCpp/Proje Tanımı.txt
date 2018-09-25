@@ -1,0 +1,3 @@
+Projenin ana amacı basitleştirilmiş bir MS-Paint uygulaması geliştirmektir. Uygulama geliştirirken kullanıcı deneyimi ve
+çizimin en gerçekçi şekilde yansıtılması amaçlanmıştır. Uygulama C programlama dili ile geliştirilmiştir.
+Uygulamada çizim ortamının oluşturulması için “Graphics.h” isimli grafik kütüphanesi kullanılmıştır.
